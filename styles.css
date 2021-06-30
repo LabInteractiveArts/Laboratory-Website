@@ -114,7 +114,7 @@ svg:hover path{
   background-size: cover;
 }
 
-@media only screen and (min-device-width: 375px) and (max-device-width: 900px) {
+@media only screen and (min-device-width: 375px) and (max-device-width: 850px) {
   .info {
 /*     padding: 35px; */
   }
