@@ -116,7 +116,7 @@ svg:hover path{
 
 @media only screen and (min-device-width: 375px) and (max-device-width: 900px) {
   .info {
-    padding: 35px;
+/*     padding: 35px; */
   }
   .image1 {
     display: none;
@@ -129,7 +129,7 @@ svg:hover path{
 
   svg {
     scale: 1.2;
-    padding: 40px;
-    padding-top: 45px;
+/*     padding: 40px;
+    padding-top: 45px; */
   }
 }
