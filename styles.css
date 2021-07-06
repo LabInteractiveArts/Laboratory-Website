@@ -470,8 +470,8 @@ h1 {
   }
 
   svg {
-    scale: 2;
-    padding: 40px;
-    padding-top: 45px;
+    scale: 1.2;
+    padding: 20px;
+    padding-top: 23px;
   }
 }
