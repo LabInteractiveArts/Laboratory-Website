@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+
 body {
   margin: 0;
   padding: 0;
-  min-height: 100vh;
-  min-height: -webkit-fill-available;
-  display: flex;
+}
+
+.box {
+   min-height: 100vh;
+    display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -45,6 +49,23 @@ svg:hover path{
   fill: #1df2a4;
 }
 
+h1 {
+  padding: 0;
+  margin: 15px;
+  color: white;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  font-family: 'Lato', sans-serif;
+  font-size: 13px;
+   text-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.text7 {
+  color: black;
+}
+
 .bg0 {
   background-image: url(img/BMPproject.png);
   background-repeat: no-repeat;
@@ -52,11 +73,84 @@ svg:hover path{
   background-size: cover;
 }
 
+.bg0 .text1 {
+  display: none;
+}
+
+.bg0 .text2 {
+  display: none;
+}
+
+.bg0 .text3 {
+  display: none;
+}
+
+.bg0 .text4 {
+  display: none;
+}
+
+.bg0 .text5 {
+  display: none;
+}
+
+.bg0 .text6 {
+  display: none;
+}
+
+.bg0 .text7 {
+  display: none;
+}
+
+.bg0 .text8 {
+  display: none;
+}
+
+.bg0 .text9 {
+  display: none;
+}
+
+
 .bg1 {
   background-image: url(img/cave.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+.bg1 .text0 {
+  display: none;
+}
+
+.bg1 .text2 {
+  display: none;
+}
+
+.bg1 .text3 {
+  display: none;
+}
+
+.bg1 .text4 {
+  display: none;
+}
+
+.bg1 .text5 {
+  display: none;
+}
+
+.bg1 .text6 {
+  display: none;
+}
+
+.bg1 .text7 {
+  display: none;
+}
+
+.bg1 .text8 {
+  display: none;
+}
+
+.bg1 .text9 {
+  display: none;
 }
 
 .bg2 {
@@ -66,11 +160,83 @@ svg:hover path{
   background-size: cover;
 }
 
+.bg2 .text1 {
+  display: none;
+}
+
+.bg2 .text0 {
+  display: none;
+}
+
+.bg2 .text3 {
+  display: none;
+}
+
+.bg2 .text4 {
+  display: none;
+}
+
+.bg2 .text5 {
+  display: none;
+}
+
+.bg2 .text6 {
+  display: none;
+}
+
+.bg2 .text7 {
+  display: none;
+}
+
+.bg2 .text8 {
+  display: none;
+}
+
+.bg2 .text9 {
+  display: none;
+}
+
 .bg3 {
   background-image: url(img/IMG_5806.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+.bg3 .text1 {
+  display: none;
+}
+
+.bg3 .text2 {
+  display: none;
+}
+
+.bg3 .text0 {
+  display: none;
+}
+
+.bg3 .text4 {
+  display: none;
+}
+
+.bg3 .text5 {
+  display: none;
+}
+
+.bg3 .text6 {
+  display: none;
+}
+
+.bg3 .text7 {
+  display: none;
+}
+
+.bg3 .text8 {
+  display: none;
+}
+
+.bg3 .text9 {
+  display: none;
 }
 
 .bg4 {
@@ -80,11 +246,83 @@ svg:hover path{
   background-size: cover;
 }
 
+.bg4 .text1 {
+  display: none;
+}
+
+.bg4 .text2 {
+  display: none;
+}
+
+.bg4 .text3 {
+  display: none;
+}
+
+.bg4 .text0 {
+  display: none;
+}
+
+.bg4 .text5 {
+  display: none;
+}
+
+.bg4 .text6 {
+  display: none;
+}
+
+.bg4 .text7 {
+  display: none;
+}
+
+.bg4 .text8 {
+  display: none;
+}
+
+.bg4 .text9 {
+  display: none;
+}
+
 .bg5 {
   background-image: url(img/IMG_9753.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+.bg5 .text1 {
+  display: none;
+}
+
+.bg5 .text2 {
+  display: none;
+}
+
+.bg5 .text3 {
+  display: none;
+}
+
+.bg5 .text4 {
+  display: none;
+}
+
+.bg5 .text0 {
+  display: none;
+}
+
+.bg5 .text6 {
+  display: none;
+}
+
+.bg5 .text7 {
+  display: none;
+}
+
+.bg5 .text8 {
+  display: none;
+}
+
+.bg5 .text9 {
+  display: none;
 }
 
 .bg6 {
@@ -94,11 +332,83 @@ svg:hover path{
   background-size: cover;
 }
 
+.bg6 .text1 {
+  display: none;
+}
+
+.bg6 .text2 {
+  display: none;
+}
+
+.bg6 .text3 {
+  display: none;
+}
+
+.bg6 .text4 {
+  display: none;
+}
+
+.bg6 .text5 {
+  display: none;
+}
+
+.bg6 .text0 {
+  display: none;
+}
+
+.bg6 .text7 {
+  display: none;
+}
+
+.bg6 .text8 {
+  display: none;
+}
+
+.bg6 .text9 {
+  display: none;
+}
+
 .bg7 {
   background-image: url(img/image6.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+.bg7 .text1 {
+  display: none;
+}
+
+.bg7 .text2 {
+  display: none;
+}
+
+.bg7 .text3 {
+  display: none;
+}
+
+.bg7 .text4 {
+  display: none;
+}
+
+.bg7 .text5 {
+  display: none;
+}
+
+.bg7 .text6 {
+  display: none;
+}
+
+.bg7 .text0 {
+  display: none;
+}
+
+.bg7 .text8 {
+  display: none;
+}
+
+.bg7 .text9 {
+  display: none;
 }
 
 .bg8 {
@@ -108,25 +418,60 @@ svg:hover path{
   background-size: cover;
 }
 
-.bg9 {
-  background-image: url(img/SpokanePlantWellnessTop.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+.bg8 .text1 {
+  display: none;
 }
 
-@media only screen and (min-device-width: 375px) and (max-device-width: 900px) {
+.bg8 .text2 {
+  display: none;
+}
 
+.bg8 .text3 {
+  display: none;
+}
+
+.bg8 .text4 {
+  display: none;
+}
+
+.bg8 .text5 {
+  display: none;
+}
+
+.bg8 .text6 {
+  display: none;
+}
+
+.bg8 .text7 {
+  display: none;
+}
+
+.bg8 .text0 {
+  display: none;
+}
+
+.bg8 .text9 {
+  display: none;
+}
+
+
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 900px) {
+  .info {
+    padding: 35px;
+  }
   .image1 {
     display: none;
   }
 
   .image2 {
     display: block;
-    height: 300px;
+    height: 600px;
   }
 
   svg {
-    scale: 1.2;
+    scale: 2;
+    padding: 40px;
+    padding-top: 45px;
   }
 }
