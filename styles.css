@@ -64,9 +64,6 @@ h1 {
     rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 
-h1 .text7 {
-  color: black;
-}
 
 .bg0 {
   background-image: url(img/BMPproject.png);
@@ -411,6 +408,10 @@ h1 .text7 {
 
 .bg7 .text9 {
   display: none;
+}
+
+.bg7 .text7 {
+  color: black;
 }
 
 .bg8 {
