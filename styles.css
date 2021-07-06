@@ -7,6 +7,7 @@ body {
 
 .box {
    min-height: 100vh;
+  min-height: -webkit-fill-available;
     display: flex;
   justify-content: center;
   align-items: center;
@@ -457,9 +458,6 @@ h1 {
 
 
 @media only screen and (min-device-width: 375px) and (max-device-width: 900px) {
-  .info {
-    padding: 35px;
-  }
   .image1 {
     display: none;
   }
@@ -471,7 +469,5 @@ h1 {
 
   svg {
     scale: 1.2;
-    padding: 20px;
-    padding-top: 23px;
   }
 }
