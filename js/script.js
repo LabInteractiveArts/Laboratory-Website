@@ -8,8 +8,7 @@ let bg = [
   'bg5',
   'bg6',
   'bg7',
-  'bg8',
-  'bg9'
+  'bg8'
 ]
 
 var numRand;
