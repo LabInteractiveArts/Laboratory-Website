@@ -68,7 +68,7 @@ h1 {
 .bg0 {
   background-image: url(img/BMPproject.png);
   background-repeat: no-repeat;
-  background-position: fixed;
+  background-position: center;
   background-size: cover;
 }
 
@@ -112,7 +112,7 @@ h1 {
 .bg1 {
   background-image: url(img/cave.png);
   background-repeat: no-repeat;
-  background-position: fixed;
+  background-position: center;
   background-size: cover;
 }
 
@@ -155,7 +155,7 @@ h1 {
 .bg2 {
   background-image: url(img/caveformation.jpg);
   background-repeat: no-repeat;
-  background-position: fixed;
+  background-position: center;
   background-size: cover;
 }
 
@@ -198,7 +198,7 @@ h1 {
 .bg3 {
   background-image: url(img/IMG_5806.jpg);
   background-repeat: no-repeat;
-  background-position: fixed;
+  background-position: center;
   background-size: cover;
 }
 
@@ -245,7 +245,7 @@ h1 {
 .bg4 {
   background-image: url(img/IMG_9348.jpg);
   background-repeat: no-repeat;
-  background-position: fixed;
+  background-position: center;
   background-size: cover;
 }
 
@@ -288,7 +288,7 @@ h1 {
 .bg5 {
   background-image: url(img/IMG_9753.jpg);
   background-repeat: no-repeat;
-  background-position: fixed;
+  background-position: center;
   background-size: cover;
 }
 
@@ -331,7 +331,7 @@ h1 {
 .bg6 {
   background-image: url(img/SpokanePlantWellnessTop.jpg);
   background-repeat: no-repeat;
-  background-position: fixed;
+  background-position: center;
   background-size: cover;
 }
 
@@ -374,7 +374,7 @@ h1 {
 .bg7 {
   background-image: url(img/image6.jpg);
   background-repeat: no-repeat;
-  background-position: fixed;
+  background-position: center;
   background-size: cover;
 }
 
@@ -421,7 +421,7 @@ h1 {
 .bg8 {
   background-image: url(img/paper.jpeg);
   background-repeat: no-repeat;
-  background-position: fixed;
+  background-position: center;
   background-size: cover;
 }
 
