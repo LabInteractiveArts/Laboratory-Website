@@ -468,6 +468,10 @@ h1 {
 
 
 @media only screen and (min-device-width: 375px) and (max-device-width: 900px) {
+  
+  .box {
+    min-height: -webkit-fill-available;
+  }
   .image1 {
     display: none;
   }
