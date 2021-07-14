@@ -483,10 +483,10 @@ h1 {
   }
 
   svg {
-    scale: .8;
+    scale: 1;
   }
   
   h1 {
     font-weight: 400;
-    margin: 10px;
+    margin: 3px;
 }
