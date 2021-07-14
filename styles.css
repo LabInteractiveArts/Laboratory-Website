@@ -14,13 +14,6 @@ html {
   height: -webkit-fill-available;
 }
 
-.box {
-/*    height: 100vh; */
-/*     display: flex;
-  justify-content: center;
-  align-items: center; */
-}
-
 .info {
   padding: 20px;
   background: linear-gradient(
@@ -422,9 +415,6 @@ h1 {
   display: none;
 }
 
-.bg7 .text7 {
-  color: black;
-}
 
 .bg8 {
   background-image: url(img/paper.jpeg);
@@ -477,10 +467,6 @@ h1 {
 
 @media only screen and (max-device-width: 500px) {
  
-/*   .box {
-   min-height: 100vh;
-  min-height: -webkit-fill-available;
-  } */
   
   .image1 {
     display: none;
