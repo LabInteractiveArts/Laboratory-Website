@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
 
 body {
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
   margin: 0;
   padding: 0;
+}
+
+html {
+  height: -webkit-fill-available;
 }
 
 .box {
@@ -468,10 +474,10 @@ h1 {
 
 @media only screen and (max-device-width: 500px) {
  
-  .box {
+/*   .box {
    min-height: 100vh;
   min-height: -webkit-fill-available;
-  }
+  } */
   
   .image1 {
     display: none;
