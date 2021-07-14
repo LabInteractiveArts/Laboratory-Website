@@ -476,7 +476,24 @@ h1 {
   .image1 {
     display: none;
   }
+  
+  .image2 {
+    display: block;
+    height: 300px;
+  }
+  svg {
+    scale: 1.2;
+  }
+  
+  h1 {
+    font-weight: 400;
+    margin: 10px;
+}
+  
+  
 
+@media only screen and (max-device-width: 600px) {
+  
   .image2 {
     display: block;
     height: 200px;
@@ -487,6 +504,7 @@ h1 {
   }
   
   h1 {
-    font-weight: 400;
+    font-weight: 300;
     margin: 3px;
 }
+  }
