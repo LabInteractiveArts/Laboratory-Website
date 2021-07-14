@@ -415,6 +415,10 @@ h1 {
   display: none;
 }
 
+.bg7 .text7 {
+  color: black;
+}
+
 
 .bg8 {
   background-image: url(img/paper.jpeg);
@@ -459,9 +463,6 @@ h1 {
   display: none;
 }
 
-.bg8 .text8 {
-  color: black;
-}
 
 
 
