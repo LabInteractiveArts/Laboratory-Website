@@ -479,11 +479,11 @@ h1 {
 
   .image2 {
     display: block;
-    height: 150px;
+    height: 200px;
   }
 
   svg {
-    scale: .6%;
+    scale: 1.6;
   }
   
   h1 {
