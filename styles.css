@@ -492,7 +492,7 @@ h1 {
   
   
 
-@media only screen and (max-device-width: 300px) {
+@media only screen and (max-device-width: 350px) {
   
   .image2 {
     display: block;
