@@ -5,6 +5,9 @@ body {
   min-height: -webkit-fill-available;
   margin: 0;
   padding: 0;
+      display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 html {
@@ -13,9 +16,9 @@ html {
 
 .box {
 /*    height: 100vh; */
-    display: flex;
+/*     display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
 }
 
 .info {
